@@ -1,4 +1,4 @@
-# Beanies RARITY SCORE
+# Beanies Rarity RANKING
 
 Sheet 1 - Beanies_traits: List of all Beanies traits.
 
